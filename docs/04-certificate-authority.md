@@ -11,6 +11,8 @@ In our case we do it on the master-1 node, as we have set it up to be the admini
 
 ## Certificate Authority
 
+https://kubernetes.io/docs/concepts/cluster-administration/certificates/
+
 In this section you will provision a Certificate Authority that can be used to generate additional TLS certificates.
 
 Create a CA certificate, then generate a Certificate Signing Request and use it to create a private key:
