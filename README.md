@@ -1,4 +1,4 @@
-![Certified Kubernetes Administrators Course](https://res.cloudinary.com/cloudusthad/image/upload/v1556858993/course-image.png)
+![Certified Kubernetes Administrators Course](https://training.linuxfoundation.org/wp-content/uploads/2019/05/CKA-CKAD-Candidate-Handbook-v1.2-.pdf)
 
 This repository holds the supporting material for the [Certified Kubernetes Administrators Course](https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests). There are two major sections. 
 
