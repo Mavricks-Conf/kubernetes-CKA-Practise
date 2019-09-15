@@ -1,7 +1,7 @@
-![Certified Kubernetes Administrators Course](https://training.linuxfoundation.org/wp-content/uploads/2019/05/CKA-CKAD-Candidate-Handbook-v1.2-.pdf)
+https://www.cncf.io/certification/cka/
+https://training.linuxfoundation.org/wp-content/uploads/2019/05/CKA-CKAD-Candidate-Handbook-v1.2-.pdf
 
-This repository holds the supporting material for the [Certified Kubernetes Administrators Course](https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests). There are two major sections. 
-
+This repository have details of CKA exam practise
 - [Kubernetes The Hard Way on VirtualBox](#kubernetes-the-hard-way-on-virtualbox)
 - [Answers to Practice Tests hosted on KodeKloud](/practice-questions-answers)
 
@@ -55,6 +55,3 @@ Kubernetes The Hard Way guides you through bootstrapping a highly available Kube
 * [Smoke Test](docs/15-smoke-test.md)
 * [E2E Test](docs/16-e2e-tests.md)
 * [Extra - Dynamic Kubelet Configuration](docs/17-extra-dynamic-kubelet-configuration.md)
-# kubernetes-CKA-Practise
-# kubernetes-CKA-Practise
-# kubernetes-CKA-Practise
